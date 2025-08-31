@@ -1,5 +1,4 @@
-📘 README.md
-# Module 2 — RESTful API using Node.js & Express
+RESTful API using Node.js & Express
 
 This repository contains the **REST API assignment project** for Module 2.  
 The project implements a simple CRUD API for managing users, using an **in-memory array** as the data source (no database).

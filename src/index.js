@@ -1,4 +1,3 @@
-
 // index.js - Application Entry Point
 // 
 // Key purpose-

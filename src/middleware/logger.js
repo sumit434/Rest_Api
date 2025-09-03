@@ -1,5 +1,5 @@
 // Logs method, URL, and status code
-// --------------------------------------
+// 
 // Purpose: Logs details about every incoming HTTP request.
 //  logs: Timestamp, HTTP method, Request URL, Response status code, Response time 
 

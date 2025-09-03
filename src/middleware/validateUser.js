@@ -1,5 +1,5 @@
 // Validation middleware for POST & PUT
-// -------------------------------------
+//
 // Ensures that the request body contains all the required fields :id, firstName, lastName, hobby.
 // If any of the user fields are missig missing → responds with HTTP 400 (Bad Request) and an error message.
 
